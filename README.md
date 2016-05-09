@@ -1,5 +1,4 @@
-# COMSW4761_project 
-## Systematic Analysis of Tumor Purity
+# Systematic Analysis of Tumor Purity
 
 1. purity_estimate.R -- Get tumor estimates of each sample using four different methods.
 2. comparison.R -- Compare the four estimates by computing Pearson correlations; plot figures used in report.
